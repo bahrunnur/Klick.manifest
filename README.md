@@ -1,0 +1,4 @@
+Klick.manifest
+==============
+
+Klick Manifesto
